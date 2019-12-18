@@ -1,0 +1,54 @@
+:: Digueu si l’afirmació següent és vertadera (V) o falsa (F)::
+sistemes multiprocés simètrics: en els quals un dels processadors del sistema, el màster, controla la resta de processadors.{F}
+
+:: Digueu si l’afirmació següent és vertadera (V) o falsa (F)::
+Parlem de programació concurrent quan s’executen en un dispositiu informàtic de forma simultània diferents tasques (processos).{V}
+
+:: Digueu si l’afirmació següent és vertadera (V) o falsa (F)::
+Quan s’executen diversos processos a l’hora, la velocitat d’execució global es pot incrementar. {V}
+
+:: Digueu si l’afirmació següent és vertadera (V) o falsa (F)::
+El component de planificació temporal, en el qual es defineix com es reparteixen els processos entre els processadors. És a dir, organitza quin processador executa quin procés..{F}
+
+:: Digueu si l’afirmació següent és vertadera (V) o falsa (F)::
+Un sistema amb monoprocessador pot fer servir programes de multiprocés.{V}
+
+
+:: Trieu l’opció incorrecte::
+Diferencia entre fil i procés:{
+    ~Son iguals tots comparteixen memoria
+    ~Son iguals ningun comparteixe memoria
+    ~Els procesos comparteixen memoria i els fils no
+    =Els fils comparteixen memoria i els procesos no 
+}
+
+:: Trieu l’opció incorrecte::
+Estats d’un procés:{
+    ~Acabat
+    ~Preparat
+    =Aturat
+    ~En execució
+}
+
+:: Trieu l’opció correcte::
+Els Avantatges del multiprocés són:{
+    ~Flexible, robustesa, tolerància a fallades 
+    =Flexible, tolerància a fallades, especialització
+    ~Especialització, tolerància a fallades, seguretat 
+    ~Incrementar la potència de càlcul i el rendiment, seguretat
+}
+
+:: Trieu l’opció correcte::
+Competència de recursos i sincronització són:{
+    =Comunicació per missatges, exclusió mútua, sincronisme condicional
+    ~Sincronisme condicional, migracio interna, comunicació per missatges
+    ~Difusió unilateral, exclusió mútua, sincronisme condicional
+    ~Exclusió mútua, generalització, difusió unilateral
+}
+
+:: Trieu l’opció incorrecte::
+Si el sistema cambia de fil o de proces que es mes rapit:{
+    ~Es més rapid variar entre procesos 
+    =Es més rapid variar entre fils
+}
+
